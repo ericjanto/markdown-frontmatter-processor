@@ -30,7 +30,7 @@ const md = '---\nfield: example value\nanother_field: some value\n---\nMarkdown 
 
 const options = {
     field: 'new example value',
-    another_field: 'del'
+    another_field: 'del',
     new_field: 'a new field!'
 }
 
