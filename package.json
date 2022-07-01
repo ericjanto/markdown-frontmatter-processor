@@ -1,0 +1,13 @@
+{
+  "name": "markdown-frontmatter-processor",
+  "version": "1.0.0",
+  "description": "Parse and process markdown frontmatter by changing, deleting or adding fields",
+  "main": "index.js",
+  "type": "module",
+  "repository": "https://github.com/ericjanto/markdown-frontmatter-processor.git",
+  "author": "Eric Janto <e.janto@gmx.de>",
+  "license": "MIT",
+  "dependencies": {
+    "gray-matter": "^4.0.3"
+  }
+}
