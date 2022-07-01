@@ -44,7 +44,6 @@ The above code snippet yields:
 field: new example value
 new_field: a new field!
 ---
-
 Markdown content
 ```
 
@@ -53,7 +52,7 @@ Note that you can use either `del` or `-` as field value in order to remove a fr
 ## Caveats
 
 Values specified in the `options` parameter need to be wrapped in single or double quotes even though
-frontmatter syntax does not require it eventually. This is because otherwise the JavaScript dictionaries will complain about names which are not defined yet.
+frontmatter syntax does not require it eventually. This is because otherwise the JavaScript dictionary will complain about names which are not defined yet.
 
 ## Contributing
 
