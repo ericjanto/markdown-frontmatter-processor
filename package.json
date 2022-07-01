@@ -1,6 +1,6 @@
 {
   "name": "markdown-frontmatter-processor",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Parse and process frontmatter in Markdown files by changing, deleting or adding new fields",
   "main": "index.js",
   "type": "module",
