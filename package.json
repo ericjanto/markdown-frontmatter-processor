@@ -9,5 +9,9 @@
   "license": "MIT",
   "dependencies": {
     "gray-matter": "^4.0.3"
-  }
+  },
+  "keywords": [
+    "frontmatter",
+    "markdown"
+  ]
 }
