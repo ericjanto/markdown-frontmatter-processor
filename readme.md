@@ -1,6 +1,6 @@
 # markdown-frontmatter-processor
 
-This package allows easy manipulation of Markdown frontmatter fields.
+Parse and process frontmatter in Markdown files by changing, deleting or adding new fields.
 
 ## Installation
 
